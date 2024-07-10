@@ -1,5 +1,5 @@
 # Security Audits
-This repo contains third party security audit reports for Index Coop's smart contracts. Source code can be found across these Github repos:
+This repo contains third party security audit reports for Index Coop's smart contracts. The covered source code can be found across these Github repos:
 
 - [Index Protocol](https://github.com/IndexCoop/index-protocol)
 - [Index Coop Smart Contracts](https://github.com/IndexCoop/index-coop-smart-contracts/)
