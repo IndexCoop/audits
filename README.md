@@ -18,3 +18,10 @@ This repo contains third party security audit reports for Index Coop's smart con
 |----------|--------|---------|
 | 5/10/24  | 0x52   | [Link](https://github.com/IndexCoop/audits/blob/main/audits/IndexDIMv3AuditReport.md)     |
 
+## Index Protocol Audit
+
+| Date     | Author | Report  |
+|----------|--------|---------|
+| June 2023  | Sherlock   | [Contest 1](https://audits.sherlock.xyz/contests/81/report), [Contest 2](https://audits.sherlock.xyz/contests/91/report)     |
+
+For additional context, please visit the Index Coop [Gitbook](https://docs.indexcoop.com/index-coop-community-handbook/protocol/security-and-audits)
