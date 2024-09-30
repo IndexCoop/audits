@@ -5,6 +5,12 @@ This repo contains third party security audit reports for Index Coop's smart con
 - [Index Coop Smart Contracts](https://github.com/IndexCoop/index-coop-smart-contracts/)
 - [Index Coop Periphery](https://github.com/IndexCoop/periphery/)
 
+## icUSD Audit
+
+| Date     | Author | Report  |
+|----------|--------|---------|
+| 9/30/24   | 0x52   | [Link](https://github.com/IndexCoop/audits/blob/main/audits/IndexIcUSDAuditReport.md)       |
+
 ## PRT Staking Audit
 
 | Date     | Author | Report  |
