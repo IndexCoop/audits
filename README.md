@@ -5,6 +5,12 @@ This repo contains third party security audit reports for Index Coop's smart con
 - [Index Coop Smart Contracts](https://github.com/IndexCoop/index-coop-smart-contracts/)
 - [Index Coop Periphery](https://github.com/IndexCoop/periphery/)
 
+## Index x Morpho Leverage Integration Audit
+
+| Date     | Author | Report  |
+|----------|--------|---------|
+| November 2024  | Sherlock   | [Link](https://audits.sherlock.xyz/contests/585/report)     |
+
 ## icUSD Audit
 
 | Date     | Author | Report  |
